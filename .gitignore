@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Sensitive.Data.Api/.vs
+/Sensitive.Data.Api/bin
+/Sensitive.Data.Api/obj
